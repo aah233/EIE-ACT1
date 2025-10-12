@@ -13,24 +13,8 @@ python3 main.py <filename> <dup>
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
 
 
----
-
-### Ejemplo de ejecución 
-
-Archivo: `palabras.txt`
-
-Unir
-Universidad
-Canarias
-Master
-Gofio
-Totufo
-Totufa
-Canarias
-Cachopo
-gato
-
-Ejecución del script:
-```bash
-python3 main.py palabras.txt yes
-
+## Integrantes del grupo
+1. Estalyn Curay (Desarrollador)
+2. 
+3. 
+4. 
